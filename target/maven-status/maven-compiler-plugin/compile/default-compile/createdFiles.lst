@@ -1,0 +1,4 @@
+com\HelloWorld\Example\service\PersonService.class
+com\HelloWorld\Example\Controller\HelloController.class
+com\HelloWorld\Example\HelloWorldSpringBootApplication.class
+com\HelloWorld\Example\model\Person.class
